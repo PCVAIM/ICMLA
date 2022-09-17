@@ -39,4 +39,3 @@ python3 train.py
 |------------|-------------|
 | <img src="gallery/result.png" width="350"> | <img src="gallery/latent.png" width="350"> |
 
-
